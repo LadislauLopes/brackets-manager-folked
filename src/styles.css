@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+.input-section {
+  margin-bottom: 24px;
+}
+
+.winner-select {
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+
+.MatchesEditor-rounds {
+  display: flex;
+  gap: 16px;
+}
